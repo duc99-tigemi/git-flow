@@ -1,0 +1,1 @@
+<MAIN> This is the most stable version of the application
